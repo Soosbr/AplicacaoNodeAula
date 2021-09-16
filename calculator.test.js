@@ -1,5 +1,5 @@
-import { expect, test } from '@jest/globals';
-import * as calculator from './calculator.js';
+//import { expect, test } from '@jest/globals';
+//import * as calculator from './calculator.js';
 
 const calculator = require('./calculator');
 
