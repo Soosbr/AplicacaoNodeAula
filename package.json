@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": ""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Soosbr/AplicacaoNodeAula/issues"
   },
-  "homepage": "https://github.com/Soosbr/AplicacaoNodeAula#readme"
+  "homepage": "https://github.com/Soosbr/AplicacaoNodeAula#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
 }
